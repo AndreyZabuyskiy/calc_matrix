@@ -1,0 +1,20 @@
+﻿  application.cpp
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(128,1): warning C4244: +=: преобразование "T" в "int", возможна потеря данных
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(128,1): warning C4244:         with
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(128,1): warning C4244:         [
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(128,1): warning C4244:             T=double
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(128,1): warning C4244:         ]
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(117): message : во время компиляции функции-члена класс шаблон "Matrix<double> Matrix<double>::operator /(Matrix<double> &)"
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\application.cpp(144): message : выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<double> Matrix<double>::operator /(Matrix<double> &)"
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\application.cpp(160): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<double>"
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(106,1): warning C4244: +=: преобразование "T" в "int", возможна потеря данных
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(106,1): warning C4244:         with
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(106,1): warning C4244:         [
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(106,1): warning C4244:             T=double
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(106,1): warning C4244:         ]
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\matrix.h(95): message : во время компиляции функции-члена класс шаблон "Matrix<double> Matrix<double>::operator *(Matrix<double> &)"
+  main.cpp
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\application.cpp(136): message : выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<double> Matrix<double>::operator *(Matrix<double> &)"
+  Создание кода...
+D:\Программирование\С++\ООП\Задание №10\matrix\matrix\main.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  matrix.vcxproj -> D:\Программирование\С++\ООП\Задание №10\matrix\Debug\matrix.exe
